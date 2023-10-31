@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: blank # the website title (if blank, full name will be used instead)
+title: "blank" # the website title (if blank, full name will be used instead)
 first_name: Vicente
 middle_name: Tiu
 last_name: Tangcueco III
@@ -120,9 +120,9 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: Vicente III # blog_name will be displayed in your blog page
+blog_name: Visions # blog_name will be displayed in your blog page
 blog_nav_title: blog # your blog must have a title for it to be displayed in the nav bar
-blog_description: a simple whitespace theme for academics
+blog_description: musings and opinions by Vicente III
 permalink: /blog/:year/:title/
 
 # Pagination
@@ -137,7 +137,7 @@ related_blog_posts:
 # Follow instructions on https://giscus.app/ to setup for your repo to fill out
 # the information below.
 giscus:
-  repo:                          # <your-github-user-name>/<your-github-repo-name>
+  repo: vicente-iii/vicente-iii.github.io                         # <your-github-user-name>/<your-github-repo-name>
   category: Comments             # name of the category under which discussions will be created
   mapping: title                 # identify discussions by post title
   strict: 1                      # use strict identification mode

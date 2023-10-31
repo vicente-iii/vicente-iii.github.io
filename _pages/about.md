@@ -9,7 +9,9 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Located in Singapore</p>
+    <p>Living in Singapore</p>
+    <p>Born in the Philippines</p>
+    <p>Empowering SEA</p>
 
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
