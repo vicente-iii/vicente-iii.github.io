@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Tioman - Basic Open Water
+title: Pulau Hantu
 description: You can actually dive in Singapore! Visibility is almost non-existent though
-img: assets/img/3.jpg
+img: assets/img/pulau-hantu.png
 importance: 4
 category: Singapore
 giscus_comments: true
