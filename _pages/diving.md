@@ -2,10 +2,10 @@
 layout: page
 title: diving
 permalink: /diving/
-description: A collection of photos from my dive trips.
+description: My diving adventures ovr the year.
 nav: true
 nav_order: 5
-display_categories: [work, fun]
+display_categories: [Malaysia, Singapore, Philippines]
 horizontal: false
 ---
 

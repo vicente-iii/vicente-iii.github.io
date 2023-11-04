@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image and giscus comments
+title: Tioman - Basic Open Water
+description: You can actually dive in Singapore! Visibility is almost non-existent though
 img: assets/img/3.jpg
-importance: 2
-category: work
+importance: 4
+category: Singapore
 giscus_comments: true
 ---
 

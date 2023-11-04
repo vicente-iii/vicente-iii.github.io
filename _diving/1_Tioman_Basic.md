@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Tioman - Basic Certification
-description: a project with a background image
-img: assets/img/12.jpg
+title: Tioman - Basic Open Water
+description: My first ever dive trip - sadly, no photos
+img: assets/img/3.jpg
 importance: 1
-category: work
-related_publications: einstein1956investigations, einstein1950meaning
+category: Malaysia
+giscus_comments: true
 ---
 
 Every project has a beautiful feature showcase page.
