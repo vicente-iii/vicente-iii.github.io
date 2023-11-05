@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Technology, Data, Science
+subtitle: Technology, Data, Science, Ocean, Life
 
 profile:
   align: right
