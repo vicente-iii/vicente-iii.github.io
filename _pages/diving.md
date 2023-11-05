@@ -2,7 +2,7 @@
 layout: page
 title: diving
 permalink: /diving/
-description: My diving adventures ovr the year.
+description: My diving adventures over the years.
 nav: true
 nav_order: 1
 display_categories: [Malaysia, Singapore, Philippines]
