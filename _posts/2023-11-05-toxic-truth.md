@@ -46,12 +46,14 @@ Words that are unfamiliar often intimidate people. People can get away with tell
 ## How to Uncover Hidden Lies
 
 #### 1. Increasing your knowledge
-If you answered 'Yes' above, the reason you answered 'Yes' is because you do not know what DHMO is and you rely on other people to provide the answers to you. This clearly shows that whatever you do not know will be used against you. If you keep relying on other people to provide you with a better understanding of the world, you let others control what you understand and what you see. Do not let the unfamiliar intimidate you and always seek to understand the truth.
+If you answered 'Yes' above, the reason you answered 'Yes' is because you do not know what DHMO is and you rely on other people to provide the answers to you. This clearly shows that whatever you do not know will be used against you. If you keep relying on other people to provide you with a better understanding of the world, you let others control what you understand and what you see. Do not let the unfamiliar intimidate you and always seek to understand the truth even when it may seem daunting.
 
 #### 2. Check the source
-Find out who the author is. Knowing the author's background and history provides more context on why they frame things in a certain way. Do they have the relevant expertise to share and provide a reliable opinion on the topic at hand?
+Find out who the author is. Knowing the author's background and history provides more context on why they frame things in a certain way. Do they have the relevant expertise to share and provide a reliable opinion on the topic at hand? In the DHMO example, the quote was taken from the Coalition to Ban DHMO. A quick Google search online would easily tell you that no such organization actually exists. Also, if you continue browsing through the links, you will notice that DHMO is actually water.
 
 #### 3. Figure out the motive
-Everyone has a reason for doing anything. In order to truly understand why the information is being shared the way it is, the true underlying motive needs to be understood properly. Only then will we know what the author is trying to make you do. This also applies to anything I say on my blog as well.
+Everyone has a reason for doing anything. In order to truly understand why the information is being shared the way it is, the true underlying motive needs to be understood properly. Only then will we know what the author is trying to make you do. Ironically, in the DHMO example, the author's motive is to show how a harmless substance can be transformed into something vile just by cherry-picking the facts. Unfortunately, it has revealed another more pressing issue which must definitely be addressed.
+
+Of course, not all lies can be as easy to spot as DHMO, and the information provided to you will be incomplete most of the time. In my next post, I will share some tips on how to evaluate these types of news more critically.
 
 Stay focused and stay alive - Vicente III

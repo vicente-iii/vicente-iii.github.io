@@ -19,8 +19,8 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Vicente is a seasoned IT professional who specializes in Salesforce and has earned 7 different certifications under his belt. He currently leads Salesforce implementation projects to either enhance his client's existing Salesforce ecosystem or onboard them to the ecosystem. Vicente is also active in the Salesforce community, and has shared his knowledge through various speaking engagements.
-
-In his past roles, Vicente has also worked as an IT manager with 4 years of experience working in the renewable energy sector. He took responsibility in leading the regional IT team for SEA to ensure the security of the company's data and the smoothness of the firm's day-to-day operations.
+Vicente is an IT professional who curretly specializes in Salesforce. He currently leads Salesforce implementation projects to either enhance his client's existing Salesforce ecosystem or onboard them to the ecosystem. Vicente is also active in the Salesforce community, and has contributed back to the community through various speaking engagements.
 
 With his background in Chemistry, Vicente also enjoys reading scientific journals and enjoys all forms of intellectual discourse. In his free time, he writes blogs about his thoughts on topics and he welcomes all forms of constructive comments and opinions. We are all here to learn from each other to better understand the world we live in.
+
+Vicente loves the ocean and wishes to one day live next to the ocean. A history of all the dives he has made can be found in the diving section of this website. He hopes to one day learn how to freedive so that he can explore the underwater world with less restrictions. Please feel free to browse the photos in the diving section to explore the underwater world with Vicente!
