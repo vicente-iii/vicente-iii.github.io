@@ -40,7 +40,7 @@ Now look at your answer on your piece of paper. How do you feel about it? If you
 
 If you answered 'Yes', it shows that there is still room for improvement. Surprisingly, when this question was recently asked to higher education students in Portugal, majority of the students voted to ban the substance. [Check the source here](https://www.researchgate.net/publication/343420533_GENDER_PERCEPTION_ABOUT_FAKE_NEWS_AND_DISINFORMATION_CASE_STUDY_WITH_PORTUGUESE_HIGHER_EDUCATION_STUDENTS). It would not be surprising if we would get a similar results when this poll is done to the general public. Even more scary is the thought of having this debate in a legislative setting and majority of the legislators decide to ban DHMO.
 
-Words that are unfamiliar often intimidate people. People can get away with telling truths to mask the lies that hide beneath it. It is frightening how easily this can be achieved to push people to make unfavourable decisions. It is important for us to go beyond the truth to figure out the lies that are hidden beneath the surface.
+Words that are unfamiliar often intimidate us. People can get away with telling half-truths to mask the lies that hide beneath it. The facts above about DHMO are all true. None of them are lies. The facts are just hidden beneath the message. It is frightening how easily this can be achieved to push people to make decisions to fit other people's agenda. It is important for us to go beyond the truth to figure out the lies that are hidden beneath the surface.
 <hr>
 
 ## How to Uncover Hidden Lies

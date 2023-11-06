@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Tactical Deception
-date: 2023-11-10
-description: How to make anything sound dangerous
+date: 2023-11-13
+description: How others can mislead you with facts
 tags: chemistry
 categories: science
 featured: true
