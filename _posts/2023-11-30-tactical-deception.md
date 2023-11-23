@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Tactical Deception
-date: 2023-11-13
+date: 2023-11-30
 description: How others can mislead you with facts
 tags: chemistry
 categories: science
