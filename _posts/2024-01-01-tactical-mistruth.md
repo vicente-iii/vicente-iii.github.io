@@ -48,7 +48,7 @@ Equipped with the above knowledge, this is what it will look like to debunk the 
 Typically, cheese contains [about 1.5-2.0% lactic acid](https://www.researchgate.net/publication/7787130_Enhanced_Lactose_Cheese_Milk_does_not_Guarantee_Calcium_Lactate_Crystals_in_Finished_Cheddar_Cheese).
 
 #### 2. Toxicity
-Using the MSDS from Thermo Fischer Scientific, you can find the toxicological information of cheese under section 11 where the LD50 (Oral) is 3,543 mg/kg. Assuming an average human weights 60 kg, you would need to consume 213g of lactic acid to have 50% chance of dying. Let's be generous and assume that the concentration of lactic acid is at 1.5%, the lower end. We would need to consume 14.2kg of cheese in one go to have a 50% chance of dying from cheese overdose. Now, that's a lot of cheese! 
+Using the MSDS from Thermo Fischer Scientific, you can find the toxicological information of cheese under section 11 where the LD50 (Oral) is 3,543 mg/kg. Assuming an average human weights 60 kg, you would need to consume 213g of lactic acid to have 50% chance of dying. Let's be generous and assume that the concentration of lactic acid is at 1.5%, the lower end. We would need to **consume 14.2kg of cheese in one go to have a 50% chance of dying from cheese overdose**. Now, that's a lot of cheese! 
 
 #### 3. Evidence
 Humans have been eating cheese [since 9,000 years ago](https://fermentology.pubpub.org/pub/boc0yude/release/1). If they can indeed cause death, a lot of people would have died from eating cheese already. It just does not make sense unless you are consuming spoiled cheese (which has an entirely different toxic substance altogether)
