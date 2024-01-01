@@ -32,7 +32,7 @@ Do you think we should ban the use of DHMO? Write down your answer on a piece of
 
 ## What is DHMO actually?
 
-Before I reveal what DHMO actually, make sure you have an answer to whether we should ban DHMO or not and write it on a pice of paper before you scroll any further.
+Before I reveal what DHMO actually, make sure you have an answer. Whether we should ban DHMO or not. Write it on a piece of paper before you scroll any further.
 
 So what is DHMO actually? It is <b><em>water</em></b>! The name Dihydrogen monoxide is the chemical name for H<sub>2</sub>O.
 

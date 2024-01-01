@@ -44,8 +44,9 @@ During the dive, the rescue diver kept an eye on me to make sure I was doing oka
 </div>
 
 ### Dive #2 - Tongo Point
-This dive was more interesting. We did a wall dive which I found out is quite advanced.
+This dive was more interesting. We did a wall dive which I found out is quite advanced. It is advanced because there is no sea floor and we would need to hover consistently at the same depth which is not easy to do.
 
+Saw 2 huge turtles.
 
 Wall dive - trial by fire
 
