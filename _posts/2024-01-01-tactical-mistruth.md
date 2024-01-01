@@ -2,7 +2,7 @@
 layout: post
 title: Tactical Mistruth
 date: 2024-01-01
-description: How others can mislead you with facts
+description: The truth may not what it seems to be
 tags: chemistry
 categories: science
 featured: true
