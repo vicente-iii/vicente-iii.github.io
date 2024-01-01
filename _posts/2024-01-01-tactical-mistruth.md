@@ -9,7 +9,7 @@ featured: true
 giscus_comments: true
 ---
 
-## Lactic Acid
+## Let's Ban Cheese!
 Do you know what cheese contains? It contains this **dangerous chemical called lactic acid**.
 
 Have a look at the [Material Safety Data Sheet (MSDS)](https://www.fishersci.com/store/msds?partNumber=A159500&productDescription=LACTIC+ACID+USP%2FFCC+500ML&vendorId=VN00033897&countryCode=US&language=en) for lactic acid:
@@ -43,7 +43,8 @@ How do you measure the toxicity of a substance? Typically, the **LD50** of a sub
 #### 3. Evidence
 How many people have died from consuming the substance so far? If there are none or close to few, the substance is likely safe for consumption. Many products, especially pharmaceutical products, have to undergo multiple rigorous medical trials before being released to the public. If you truly want to understand if something is toxic, you can refer to the papers on the medical trials that were conducted and draw your conclusions from those instead.
 
-Equipped with the above knowledge, this is what it will look like to debunk the argument for banning lactic acid above:
+## Let's Unban Cheese!
+Equipped with the above knowledge, this is what it will look like to debunk the argument for banning cheese above:
 #### 1. Concentration
 Typically, cheese contains [about 1.5-2.0% lactic acid](https://www.researchgate.net/publication/7787130_Enhanced_Lactose_Cheese_Milk_does_not_Guarantee_Calcium_Lactate_Crystals_in_Finished_Cheddar_Cheese).
 
