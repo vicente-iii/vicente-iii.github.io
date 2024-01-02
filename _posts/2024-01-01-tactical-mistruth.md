@@ -46,7 +46,7 @@ How many people have died from consuming the substance so far? If there are none
 ## Let's Unban Cheese!
 Equipped with the above knowledge, this is what it will look like to debunk the argument for banning cheese above:
 #### 1. Concentration
-Typically, cheese contains [about 1.5-2.0% lactic acid](https://www.researchgate.net/publication/7787130_Enhanced_Lactose_Cheese_Milk_does_not_Guarantee_Calcium_Lactate_Crystals_in_Finished_Cheddar_Cheese).
+Typically, cheese contains [about 1.5-2.0% lactic acid](https://www.researchgate.net/publication/7787130_Enhanced_Lactose_Cheese_Milk_does_not_Guarantee_Calcium_Lactate_Crystals_in_Finished_Cheddar_Cheese). This information will be useful in the next point.
 
 #### 2. Toxicity
 Using the MSDS from Thermo Fischer Scientific, you can find the toxicological information of cheese under section 11 where the LD50 (Oral) is 3,543 mg/kg. Assuming an average human weights 60 kg, you would need to consume 213g of lactic acid to have 50% chance of dying. Let's be generous and assume that the concentration of lactic acid is at 1.5%, the lower end. We would need to **consume 14.2kg of cheese in one go to have a 50% chance of dying from cheese overdose**. Now, that's a lot of cheese! 
